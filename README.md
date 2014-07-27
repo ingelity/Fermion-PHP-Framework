@@ -68,8 +68,15 @@ comments on viewed post have changed and if so, load new ones using jQuery.load 
    
 ## Author
 
-	Aleksandar Jovanovic - http://rs.linkedin.com/in/ingelity
-	
+	Aleksandar Jovanovic 
+		
+		http://rs.linkedin.com/in/ingelity
+		
+		https://www.elance.com/s/ingelity
+		
+		https://github.com/ingelity
+		
+		
 ## License
 
 	Available for free use to those who are pure in soul =)
