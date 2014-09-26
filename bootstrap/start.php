@@ -11,7 +11,7 @@ if(!session_id())
 define('APP_PATH', dirname(__DIR__) . '/app/');
 define('CONFIG_PATH', APP_PATH . 'config/');
 define('VIEWS_PATH', APP_PATH . 'Fermion/Views/');
-define('SITE_URL', 'http://localhost.news.bab.la');
+define('SITE_URL', 'http://fermion.localhost');
 
 // autoloader
 spl_autoload_register(function($class_name) {
