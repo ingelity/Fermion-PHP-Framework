@@ -1,0 +1,2 @@
+<h3>Sorry, the page You requested doesn't exist. If You would like to create one, come and join our developers' team.</h3>
+<p><?php /* echo $msg; */ /* this might be optional to display error message to the user */?></p>
